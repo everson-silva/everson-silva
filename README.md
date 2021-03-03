@@ -41,7 +41,7 @@
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/everson-silva)
 
 
- ![                                                          ](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
+ ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
 
 
 
