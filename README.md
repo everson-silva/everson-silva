@@ -36,7 +36,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
   
   
-  [![](https://github-readme-stats.vercel.app/api?username=everson-silva&theme=radical)](https://github.com/everson-silva/)
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=everson-silva&hide=html&layout=compact&theme=radical)](https://github.com/everson-silva/)
 
 
