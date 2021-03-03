@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorador desse vasto mundo do desenvolvendo web.
 - 🎓 &nbsp; Atualmente estudando Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
@@ -41,7 +41,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Everson Silva](https://img.shields.io/badge/-everson-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eversonmessias/)
+[![Linkedin: Everson Silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eversonmessias/)
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=social)](https://github.com/everson-silva)
 
 ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
