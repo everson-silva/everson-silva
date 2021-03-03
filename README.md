@@ -41,7 +41,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Everson Silva](https://img.shields.io/badge/-Everson-Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eversonmessias/)
+[![Linkedin: Everson Silva](https://img.shields.io/badge/-everson-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eversonmessias/)
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=social)](https://github.com/everson-silva)
 
 ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
