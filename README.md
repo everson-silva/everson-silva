@@ -29,7 +29,7 @@
 
 **Utilidades**
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 
 **Ferramentas de Desenvolvimento**
 
