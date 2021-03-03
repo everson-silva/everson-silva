@@ -38,14 +38,11 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Everson Silva](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eversonmessias/)
-[![GitHub Everson Silva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/everson-silva)
+[![Linkedin: Everson Silva](https://img.shields.io/badge/-Everson-Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eversonmessias/)
+[![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=social)](https://github.com/everson-silva)
 
 ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
 
