@@ -34,6 +34,11 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  
+  
+  [![](https://github-readme-stats.vercel.app/api?username=everson-silva&theme=radical)](https://github.com/everson-silva/)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=everson-silva&hide=html&layout=compact&theme=radical)](https://github.com/everson-silva/)
+
 
 <h3> Onde me encontrar: </h3> 
 
