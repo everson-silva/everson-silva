@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<h3 align="left" > :man: &nbsp;Sobre mim </h3>
+<h3 align="left" > Sobre mim </h3>
 
 - 🤔 &nbsp; Explorador desse vasto mundo do desenvolvendo web.
 - 🎓 &nbsp; Estudando Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Back-End utilizando Java e Spring Framework.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -35,13 +35,14 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> Onde me encontrar: </h3> 
 
 [![Linkedin: Everson Silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eversonmessias/)
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/everson-silva)
 
+<p align="right"> 
 ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
-
+</p>
 
 
 
