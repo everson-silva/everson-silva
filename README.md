@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorador desse vasto mundo do desenvolvendo web.
 - 🎓 &nbsp; Estudando Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** no projeto <a href="https://github.com/everson-silva/projetointegrador">PerifaBuy</a>
-- 🌱 &nbsp; Atualmente aprendendo mais sobre Back-End utilizando Java e Spring Framework.
+- 🌱 &nbsp; Aprendendo mais sobre Back-End utilizando Java e Spring Framework.
 
 <h3> Minhas Skills </h3>
 
