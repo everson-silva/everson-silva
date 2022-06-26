@@ -2,8 +2,8 @@
 
 <h3 align="left" > Sobre mim </h3>
 
-- 🤔 &nbsp; Explorador desse vasto mundo do desenvolvendo web.
-- 🎓 &nbsp; Estudando Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
+- 🥰 &nbsp; Entusiasta de tecnologia e apaixonado por Hardware.
+- 🎓 &nbsp; Estudo Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Back-End utilizando Java e Spring Framework.
 
 <h3> Minhas Skills </h3>
