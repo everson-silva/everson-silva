@@ -4,7 +4,7 @@
 
 - 🥰 &nbsp; Entusiasta de tecnologia e apaixonado por Hardware.
 - 🎓 &nbsp; Estudo Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Back-End utilizando Java e Spring Framework.
+- 🌱 &nbsp; Aprendendo mais sobre TUDO.
 
 <h3> Minhas Skills </h3>
 
