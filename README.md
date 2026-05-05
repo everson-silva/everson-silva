@@ -10,7 +10,6 @@
 
 **Aplicações e Dados**
 
-
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,14 +20,11 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-  
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=everson-silva&hide=html&layout=compact&theme=radical)](https://github.com/everson-silva/)
 
-
-<h3> Onde me encontrar: </h3> 
+<h3> Onde me encontrar: </h3>
 
 [![Linkedin: Everson Silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eversonmessias/)
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/everson-silva)
-
 
  ![](https://komarev.com/ghpvc/?username=everson-silva&color=006bed)
