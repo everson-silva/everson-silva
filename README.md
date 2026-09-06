@@ -2,9 +2,9 @@
 
 <h3 align="left" > Sobre mim </h3>
 
-- 🥰 &nbsp; Entusiasta de tecnologia e apaixonado por Hardware.
-- 🎓 &nbsp; Estudo Ciência e Tecnologia na <a href="https://prograd.ufabc.edu.br/bct">UFABC</a>.
-- 🌱 &nbsp; Aprendendo mais sobre TUDO.
+- 🥰 &nbsp; Entusiasta de tecnologia e apaixonado por todo tipo de Gadgets.
+- 🎓 &nbsp; Graduando em Engenharia da Computação.
+- 🌱 &nbsp; Aprendendo cada dia mais sobre o Mundo.
 
 <h3> Minhas Skills </h3>
 
