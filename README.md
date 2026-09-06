@@ -27,7 +27,7 @@
 
 <h3> Onde me encontrar: </h3> 
 
-[![Linkedin: Everson Silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eversonmessias/)
+[![Linkedin: Everson Silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![GitHub Everson Silva]( https://img.shields.io/github/followers/everson-silva?label=follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/everson-silva)
 
 
